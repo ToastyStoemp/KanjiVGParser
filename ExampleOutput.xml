@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<KanjiLibrary>
+    <Kanji ID="0" sign="七" meaning="seven" strokes="1(1.0, 0.0)4(0.0, -1.0)(0.5, -0.5)(1.0, 0.0)(0.5, 0.5)"/>
+    <Kanji ID="1" sign="風" meaning="wind" strokes="2(0.0, -1.0)(-0.5, -0.5)3(1.0, 0.0)(0.0, -1.0)(0.5, -0.5)1(-0.5, -0.5)1(0.5, -0.5)2(1.0, 0.0)(0.0, -1.0)1(1.0, 0.0)1(0.0, -1.0)2(1.0, 0.0)(0.5, 0.5)1(0.5, -0.5)"/>
+    <Kanji ID="2" sign="三" meaning="three" strokes="1(1.0, 0.0)1(1.0, 0.0)1(1.0, 0.0)"/>
+    <Kanji ID="3" sign="上" meaning="above up" strokes="1(0.0, -1.0)1(1.0, 0.0)1(1.0, 0.0)"/>
+    <Kanji ID="4" sign="人" meaning="person" strokes="2(0.0, -1.0)(-0.5, -0.5)1(0.5, -0.5)"/>
+    <Kanji ID="5" sign="火" meaning="fire" strokes="1(0.5, -0.5)1(-0.5, -0.5)2(0.0, -1.0)(-0.5, -0.5)1(0.5, -0.5)"/>
+    <Kanji ID="6" sign="土" meaning="soil" strokes="1(1.0, 0.0)1(0.0, -1.0)1(1.0, 0.0)"/>
+    <Kanji ID="7" sign="九" meaning="nine" strokes="2(0.0, -1.0)(-0.5, -0.5)5(1.0, 0.0)(0.0, -1.0)(0.5, -0.5)(1.0, 0.0)(0.5, 0.5)"/>
+    <Kanji ID="8" sign="口" meaning="mouth" strokes="1(0.0, -1.0)2(1.0, 0.0)(0.0, -1.0)1(1.0, 0.0)"/>
+    <Kanji ID="9" sign="二" meaning="two" strokes="1(1.0, 0.0)1(1.0, 0.0)"/>
+    <Kanji ID="10" sign="五" meaning="five" strokes="1(1.0, 0.0)2(0.0, -1.0)(-0.5, -0.5)2(1.0, 0.0)(0.0, -1.0)1(1.0, 0.0)"/>
+    <Kanji ID="11" sign="万" meaning="ten thousand" strokes="1(1.0, 0.0)4(1.0, 0.0)(0.0, -1.0)(-0.5, -0.5)(-1.0, 0.0)1(-0.5, -0.5)"/>
+    <Kanji ID="12" sign="一" meaning="one" strokes="1(1.0, 0.0)"/>
+</KanjiLibrary>
