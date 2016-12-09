@@ -5,8 +5,10 @@ A custom parser to convert KanjiVG (SVG) into a xml with directional data and mo
 - Kanji => Database parser
 To execute the Kanji's to xml database you need to install Node.js
 Open the Commandprompt in the root folder of this project and run
+```
 $ npm install
 $ node main.js out >> kanji.xml
+```
 
 That will save the database to kanji.xml
 
