@@ -20,11 +20,11 @@ Preferably place the script on a camera object.
 Not all parameters are easily changable, -> Future updates
 
 #TODO
--fix the meanings for the kanji
--implement writing to database inside the node project
--support regional drawing ( set boundaries )
--add more events
--update the 'almost' , and 'poor' correction algorithms
--add stroke length checker and position checker
--update the writer to be more acurate ( no corner strokes )
--more...
+- fix the meanings for the kanji
+- implement writing to database inside the node project
+- support regional drawing ( set boundaries )
+- add more events
+- update the 'almost' , and 'poor' correction algorithms
+- add stroke length checker and position checker
+- update the writer to be more acurate ( no corner strokes )
+- more...
