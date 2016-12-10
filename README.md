@@ -13,9 +13,11 @@ $ node main.js out >> kanji.xml
 That will save the database to kanji.xml
 
 - Unity writer
-Import the scripts manually, or use the included unityPackage
+Import the scripts manually, or use the included unityPackage ( OUTDATED PACKAGE )
 Included is and example 'game' file, that gives an example of how you can use the writer system.
 Preferably place the script on a camera object.
+The script needs C#6 by default unity runs on C#4,
+to fix this follow this guide: https://bitbucket.org/alexzzzz/unity-c-5.0-and-6.0-integration/src
 
 Not all parameters are easily changable, -> Future updates
 
