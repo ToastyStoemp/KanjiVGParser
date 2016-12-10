@@ -107,7 +107,7 @@ public class WriterManager : MonoBehaviour {
 
         if (path == SeekingKanji.Strokes)
         {
-            OnWinPerfect();
+            OnWinPerfect?.Invoke();
         }
         else
         {
@@ -125,7 +125,7 @@ public class WriterManager : MonoBehaviour {
             }
             if (diff.Count == 0 && userstrokeCount == SeekingKanji.strokeCount)
             {
-                OnWinAlmost();
+                OnWinAlmost?.Invoke();
                 return;
             }
 
@@ -148,7 +148,7 @@ public class WriterManager : MonoBehaviour {
 
             if (diff.Count == 0 && userstrokeCount == SeekingKanji.strokeCount)
             {
-                OnWinPoor();
+                OnWinPoor?.Invoke();
             }
             else if (IsDebug)
             {
@@ -223,7 +223,7 @@ public class WriterManager : MonoBehaviour {
     {
         SeekingKanji = kanji;
         ClearWriter();
-        OnNewKanji(SeekingKanji);
+        OnNewKanji?.Invoke(SeekingKanji);
         if (IsDebug) Debug.Log(SeekingKanji.Name);
     }
 
