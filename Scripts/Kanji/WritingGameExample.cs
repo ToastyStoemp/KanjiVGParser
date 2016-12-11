@@ -41,6 +41,7 @@ public class WritingGameExample : MonoBehaviour
 
     void Start()
     {
+        KanjiManager.Init(); //IMPORTANT
         KanjiWriter = gameObject.AddComponent<WriterManager>();
         KanjiWriter.TargetCamera = TargetCamera;
         KanjiWriter.TrailPrefab = TrailPrefab;
